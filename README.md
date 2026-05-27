@@ -10,18 +10,18 @@
 - 💻 Building frontend and full stack projects using React & Node.js
 - 🎨 Interested in Fashion-Tech and AI based applications
 - 🚀 Exploring UI/UX, APIs, and modern web development
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: hirapnikita@gmail.com
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="www.linkedin.com/in/nikita-hirap">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/nikitahirap">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
