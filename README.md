@@ -51,7 +51,7 @@ Built games using Python and Pygame.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=nikitahirap&theme=tokyonight&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight)
 
